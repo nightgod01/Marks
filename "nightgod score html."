@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+<body>
+<h1>English,Mathematics and Biology</h1>
+
+<table border="3px"
+ <thead>
+  <tr>
+   <th>Names</th>
+   <th>ENGLISH</th>
+   <th>MATHEMATICS</th>
+   <th>BIOLOGY</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+  <td>Opeyemi</td>
+   <td>A1</td>
+   <td>B2</td>
+   <td>A1</td>
+  </tr>
+  <tr>
+   
+   <td>Micheal</td>
+   <td>A1</td>
+   <td>C4</td>
+   <td>B2</td>
+  </tr>
+  <tr>
+  
+   <td>Esther</td>
+   <td>B3</td>
+   <td>A1</td>
+   <td>C4</td>
+  </tr>
+  <tr>
+  
+   <td>Biodun</td>
+   <td>C3</td>
+   <td>C4</td>
+   <td>A1</td>
+  </tr>
+  <tr>
+   
+   <td>Busayo</td>
+   <td>A1</td>
+   <td>B3</td>
+   <td>A1</td>
+  </tr>
+  <tr>
+  
+   <td>Dayo</td>
+   <td>B2</td>
+   <td>A1</td>
+   <td>B3</td>
+  </tr>
+  <tr>
+  
+   <td>Elizabeth</td>
+   <td>A1</td>
+   <td>C4</td>
+   <td>B2</td>
+  </tr>
+  <tr>
+  
+   <td>Justin</td>
+   <td>A1</td>
+   <td>B2</td>
+   <td>A1</td>
+  </tr>
+  <tr>
+  
+   <td>Susan</td>
+   <td>B2</td>
+   <td>A1</td>
+   <td>A1</td>
+  </tr>
+  <tr>
+  
+   <td>Femi</td>
+   <td>B2</td>
+   <td>A1</td>
+   <td>B3</td>
+  </tr>
+  <tr>
+   
+  </tr>
+ </tbody>
+</table>
+</body>
+</html>,
